@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMQTT", "WpfMQTT\WpfMQTT.csproj", "{90FB3822-AFD0-4D7E-BE1F-F94A92BFAAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTT_MvcAPI", "MQTT_MvcAPI\MQTT_MvcAPI.csproj", "{C880B4BE-89B3-478A-9140-4E96B36075C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90FB3822-AFD0-4D7E-BE1F-F94A92BFAAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FB3822-AFD0-4D7E-BE1F-F94A92BFAAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FB3822-AFD0-4D7E-BE1F-F94A92BFAAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FB3822-AFD0-4D7E-BE1F-F94A92BFAAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C880B4BE-89B3-478A-9140-4E96B36075C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C880B4BE-89B3-478A-9140-4E96B36075C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C880B4BE-89B3-478A-9140-4E96B36075C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C880B4BE-89B3-478A-9140-4E96B36075C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
